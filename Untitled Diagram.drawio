@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-22T14:16:30.788Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="1gaAvai4wKdg8ZiL3sI-" version="21.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-22T14:22:30.151Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="yo1h9IHII9pcEx0q9P1r" version="21.8.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="3088" dy="913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -125,6 +125,12 @@
         </mxCell>
         <mxCell id="bKOJOJxh9e6GTbkN9oyA-42" value="Payment" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;fillColor=#66B2FF;strokeColor=#FFFFFF;fontColor=#1A1A1A;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-913" y="982" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bKOJOJxh9e6GTbkN9oyA-54" value="&lt;b&gt;1&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=1;labelBackgroundColor=none;fontColor=#1A1A1A;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-328" y="397" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bKOJOJxh9e6GTbkN9oyA-55" value="&lt;b&gt;2&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=1;labelBackgroundColor=none;fontColor=#1A1A1A;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-580" y="397" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
